@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="action_settings">设置</string>
+    <string name="app_name">胡志聪</string>
+    <string name="personal_settings">个人资料</string>
+	<string name="today">今天</string>
+    <string name="jump_to">跳转到</string>
+    <string name="schedule">日程</string>
+    <string name="solar_lunar">日期转换</string>
+    <string name="add_schedule">请输入你的日程...</string>
+    <string name="btn_today">今天</string>
+</resources>

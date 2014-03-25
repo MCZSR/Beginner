@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/today"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/today"/>
+    <item
+        android:id="@+id/jump_to"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/jump_to"/>
+    <item
+        android:id="@+id/schedule"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/schedule"/>
+    <item
+        android:id="@+id/solar_lunar"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/solar_lunar"/>
+    <item
+        android:id="@+id/personal_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/personal_settings"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/others_look"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/others_look"/>
+
+</menu>
